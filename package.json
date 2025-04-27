@@ -1,0 +1,17 @@
+{
+  "name": "linkedin-yoe-degree-finder",
+  "version": "0.2.0",
+  "type": "module",
+  "scripts": {
+    "build": "esbuild src/content.ts --bundle --minify --target=chrome114 --outfile=dist/content.js"
+  },
+  "dependencies": {
+    "compromise": "^14.14.4"
+  },
+  "devDependencies": {
+    "esbuild": "^0.20.0",
+    "typescript": "^5.4.0",
+    "@types/chrome": "^0.0.262"
+  }
+}
+

@@ -6,14 +6,14 @@
 
 ## What is QuickSpot?
 
-I built **QuickSpot** because I was tired of wasting time opening long job descriptions —  
+I built **QuickSpot** because I was tired of wasting time opening long job descriptions 
 only to find out I didn’t meet the Years of Experience or Degree requirements.
 
 **QuickSpot** automatically detects and highlights:
 - **YoE (Years of Experience)** requirements
 - **Degree** qualifications (Bachelor's, Master's, PhD, etc.)
 
-It displays them at the top of every LinkedIn job page in clean, colorful badges —  
+It displays them at the top of every LinkedIn job page in clean, colorful badges
 so you know instantly whether a role matches you.
 
 ---
